@@ -12,4 +12,9 @@ img {
   display:block;
   margin-left:auto;
   margin-right:auto;
-  ]
+}
+
+table {
+  border-style: solid;
+  width: 30px;
+}
